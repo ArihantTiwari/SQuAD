@@ -26,7 +26,7 @@ Our research lies in utilizing supervised and unsupervised machine learning tech
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Our_Research.png"
   link="research"
   title="Our Research"
   text=text
