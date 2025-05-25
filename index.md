@@ -1,9 +1,9 @@
 ---
 ---
 
-# ArihantTiwari's Website
+# SQuAD Project Website
 
-An engaging 1-3 sentence description of your lab.
+The Spectroscopic Quasar Anomaly Detection (SQuAD) Project is dedicated to identifying anomalous quasars from large-scale spectroscopic surveys and conducting follow-up studies on these intriguing sources. Our mission is to uncover rare quasar phenomena to enhance our understanding of supermassive black holes and the extreme environments they inhabit.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research lies in utilizing supervised and unsupervised machine learning techniques on quasar spectra to find anomalous objects, group them and conduct follow-up studies of the most interesting sources. 
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Project description. 
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Team members. Vivek and Arihant. Rachana. 
 
 {%
   include button.html
