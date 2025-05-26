@@ -1,22 +1,26 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: SQuAD I
+  subtitle: Rest frame UV spectra from SDSS DR16Q
   group: featured
-  image: images/photo.jpg
+  image: images/All_Anomaly_Spectra.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Ten anomaly groups (4 novel) found by applying K-Means clustering on $\sim80000$ UV spectra of BAL and Non-BAL QSOs lying in the redshift range $1.88\geq z\geq 2.47$.
+  repo: ArihantTiwari/SQuAD
   tags:
     - resource
+    - publication
+    - software
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: SQuAD II
+  subtitle: Rest frame optical spectra of NLSy1s
   group: featured
-  image: images/photo.jpg
+  image: images/SQuAD_II.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Three anomalous classes (Red, Blue and Emission-Line Dominated) of NLSy1 galaxies discovered by running SQuAD on $\sim 22000$ NLSy1 spectra derived from Paliya et al 2024 catalog.
+  repo: ArihantTiwari/SQuAD
   tags:
     - resource
+    - publication
+    -software
 
 - title: Cool Tutorial
   subtitle: a subtitle
