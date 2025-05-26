@@ -58,8 +58,10 @@ Have questions about the SQuAD projects or are interested in collaborating? We'd
 {% endcapture %}
 
 {% capture col2 %}
-Indian Institute of Astrophysics/
-Bengaluru, Karnataka, India
+<div style="text-align: center;">
+  Indian Institute of Astrophysics<br>
+  Bengaluru, Karnataka, India
+</div>
 {% endcapture %}
 
 {% capture col3 %}
