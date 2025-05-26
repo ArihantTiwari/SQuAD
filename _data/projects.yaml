@@ -3,7 +3,7 @@
   group: featured
   image: images/All_Anomaly_Spectra.png
   link: https://github.com/
-  description: Ten anomaly groups (4 novel) found by applying K-Means clustering on $\sim80000$ UV spectra of BAL and Non-BAL QSOs lying in the redshift range $1.88\geq z\geq 2.47$.
+  description: Ten anomaly groups (4 novel) found by applying K-Means clustering on 80000 UV spectra of BAL and Non-BAL QSOs lying in the redshift range 1.88 < z < 2.47.
   repo: ArihantTiwari/SQuAD
   tags:
     - resource
@@ -15,7 +15,7 @@
   group: featured
   image: images/SQuAD_II.png
   link: https://github.com/
-  description: Three anomalous classes (Red, Blue and Emission-Line Dominated) of NLSy1 galaxies discovered by running SQuAD on $\sim 22000$ NLSy1 spectra derived from Paliya et al 2024 catalog.
+  description: Three anomalous classes (Red, Blue and Emission-Line Dominated) of NLSy1 galaxies discovered by running SQuAD on 22,000 NLSy1 spectra derived from Paliya et al 2024 catalog.
   repo: ArihantTiwari/SQuAD
   tags:
     - resource
