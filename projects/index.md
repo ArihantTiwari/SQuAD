@@ -9,7 +9,7 @@ nav:
 
 There are three projects under SQuAD as of May 2025. We have used UV spectra to find anomalous QSOs and study variablity trends. Optical spectra has been utilized to find anomalous NLSy1 galaxies. All spectra so far have been obtained from the Sloan Digital Sky Survey Data Release 16 [(SDSS DR16)](https://skyserver.sdss.org/dr16/en/home.aspx).
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="Publication, Catalog" %}
 
 {% include search-info.html %}
 
