@@ -49,7 +49,7 @@ Project description.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/All_Anomaly_Spectra.png"
   link="projects"
   title="Our Projects"
   flip=true
