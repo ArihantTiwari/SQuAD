@@ -34,7 +34,7 @@ Our research lies in utilizing supervised and unsupervised machine learning tech
 
 {% capture text %}
 
-Project description. 
+SQuAD currently has three projects covering UV and Optical spectra of quasars and NLSy1 galaxies.  
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Project description.
 
 {%
   include feature.html
-  image="images/All_Anomaly_Spectra.png"
+  image="images/Our_Research.png"
   link="projects"
   title="Our Projects"
   flip=true
