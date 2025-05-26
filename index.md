@@ -74,7 +74,7 @@ Team members. Vivek and Arihant. Rachana.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IIA_Campus.jpg"
   link="team"
   title="Our Team"
   text=text
