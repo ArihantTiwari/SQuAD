@@ -28,30 +28,6 @@ Have questions about the SQuAD projects or are interested in collaborating? We'd
   link="https://maps.app.goo.gl/vNN46QuFRYYjxJnB9"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
 {% include section.html dark=true %}
 
 {% capture col1 %}
