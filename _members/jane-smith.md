@@ -1,11 +1,10 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Vivek M
+image: images/vivekm.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Indian Institute of Astrophysics
 aliases:
-  - J. Smith
-  - J Smith
+  - M. Vivek
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
