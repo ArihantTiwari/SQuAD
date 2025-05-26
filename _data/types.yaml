@@ -11,7 +11,7 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-mug-hot
   description: PhD Student
 
 undergrad:
@@ -19,7 +19,7 @@ undergrad:
   description: Undergraduate Student
 
 graduate:
-  icon: fa-solid fa-mug-hot
+  icon: fa-solid fa-graduation-cap
   description: Graduate Student
 
 programmer:
