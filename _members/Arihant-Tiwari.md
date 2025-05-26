@@ -2,6 +2,9 @@
 name: Arihant Tiwari
 image: images/Arihant.png
 role: graduate
+affiliation: Indian Institute of Astrophysics
+aliases:
+  - A. Tiwari
 group: alum
 links:
   github: ArihantTiwari
