@@ -3,6 +3,9 @@ name: Rachana
 image: images/Rachana.jpg
 role: phd
 group: alum
+affiliation: Indian Institute of Astrophysics
+aliases:
+  - R. Yadav
 links:
 ---
 
