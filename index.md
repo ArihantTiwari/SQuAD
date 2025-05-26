@@ -49,7 +49,7 @@ SQuAD currently has three projects covering UV and Optical spectra of quasars an
 
 {%
   include feature.html
-  image="images/Our_Research.png"
+  image="images/All_Anomaly_Spectra.png"
   link="projects"
   title="Our Projects"
   flip=true
