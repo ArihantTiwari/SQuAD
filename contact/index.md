@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Have questions or are interested in collaborating? We'd love to hear from you!
+Have questions about the SQuAD projects or are interested in collaborating? We'd love to hear from you! Please drop by at the details below or feel free to contact any of the team members!
 
 {%
   include button.html
@@ -55,21 +55,14 @@ Have questions or are interested in collaborating? We'd love to hear from you!
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Indian Institute of Astrophysics/
+Bengaluru, Karnataka, India
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
