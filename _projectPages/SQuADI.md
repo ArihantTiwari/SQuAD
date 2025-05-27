@@ -31,12 +31,14 @@ as heavily reddened, moderately reddened, and plateau-shaped spectrum
 quasars, each exhibiting varying degrees of reddening. We present the
 detected anomalies as an accompanying value-added catalog.
 
+[![Download Paper](https://img.shields.io/badge/Download-Paper-blue)](https://github.com/yourusername/yourrepo/raw/main/papers/squad_paper.pdf)
+[![View on arXiv](https://img.shields.io/badge/arXiv-2411.16858-orange)](https://arxiv.org/abs/2411.16858)
+
 # Catalog
 
  
-  | Name                        |      RA      |    Dec      |   Redshift |   R-band    |  Cluster |  Group  |     Anomaly      |
-  |                             |     (deg)    |    (deg)    |            |   magnitude |     ID   |    ID   |       type       |
-  | :-------------------------- | :----------: | :---------: | :--------: | :-----------: | :---------: |  :-------: | : ----------------- :|
+  | Name                        |  RA  (deg)   |  Dec (deg)  |   Redshift  |  R-band  magnitude |  Cluster ID  |  Group ID  |  Anomaly Type  |
+  | :-------------------------- | :----------: | :---------: | :--------:  | :-----------: | :---------: |  :-------: | : ----------------- :|
   | SDSS J001439.18-045138.9    | 3.6632       | -4.8608     |2.1261       |21.19        |1        | 1       | C iv peaker |
   | SDSS J102835.79+262923.4    | 157.1491     | 26.4898     |2.0888       |18.50        |2        |4        | Excess Si iv |
   | SDSS J002048.12-032444.4    | 5.2005       | -3.4123     |1.9333       |20.24        |2        |2        | Si iv deficient|
@@ -150,63 +152,3 @@ find photometrically anomalous quasars. By extending the sample size of
 these anomalous quasars, this study enables the statistical analysis of
 these peculiar sources, contributing to a deeper understanding of AGNs
 and their diverse characteristics.
-
-::: acknowledgements
-We thank the anonymous referee for the feedback which has significantly
-helped to improve the paper. AT acknowledges and thanks the Indian
-Institute of Astrophysics (IIA) for their acceptance in the visiting
-student program (VSP) and hence the financial and infrastructural
-support provided. MV acknowledges support from Department of Science and
-Technology, India - Science and Engineering Research Board (DST-SERB) in
-the form of a core research grant (CRG/2022/007884).
-
-Funding for the Sloan Digital Sky Survey IV has been provided by the
-Alfred P. Sloan Foundation, the U.S. Department of Energy Office of
-Science, and the Participating Institutions. SDSS acknowledges support
-and resources from the Center for High-Performance Computing at the
-University of Utah. The SDSS web site is www.sdss4.org.
-
-SDSS is managed by the Astrophysical Research Consortium for the
-Participating Institutions of the SDSS Collaboration including the
-Brazilian Participation Group, the Carnegie Institution for Science,
-Carnegie Mellon University, Center for Astrophysics \| Harvard &
-Smithsonian (CfA), the Chilean Participation Group, the French
-Participation Group, Instituto de Astrofísica de Canarias, The Johns
-Hopkins University, Kavli Institute for the Physics and Mathematics of
-the Universe (IPMU) / University of Tokyo, the Korean Participation
-Group, Lawrence Berkeley National Laboratory, Leibniz Institut für
-Astrophysik Potsdam (AIP), Max-Planck-Institut für Astronomie (MPIA
-Heidelberg), Max-Planck-Institut für Astrophysik (MPA Garching),
-Max-Planck-Institut für Extraterrestrische Physik (MPE), National
-Astronomical Observatories of China, New Mexico State University, New
-York University, University of Notre Dame, Observatório Nacional / MCTI,
-The Ohio State University, Pennsylvania State University, Shanghai
-Astronomical Observatory, United Kingdom Participation Group,
-Universidad Nacional Autónoma de México, University of Arizona,
-University of Colorado Boulder, University of Oxford, University of
-Portsmouth, University of Utah, University of Virginia, University of
-Washington, University of Wisconsin, Vanderbilt University, and Yale
-University.
-:::
-
-::: appendix
-# SQuAD algorithm
-
-::: figure*
-[image]{.image .placeholder original-image-src="FlowChart.png"
-original-image-title="" width="\\hsize"}
-:::
-
-# PCA eigenvectors
-
-The PCA Eigenvectors for the primary k-means clustering are given in
-Fig. [\[fig:pca_eigenspectra\]](#fig:pca_eigenspectra){reference-type="ref"
-reference="fig:pca_eigenspectra"}.
-
-::: figure*
-[image]{.image .placeholder original-image-src="PCA_Eigenspectra.png"
-original-image-title="" width="0.8\\linewidth"}
-:::
-:::
-
-[^1]: <https://vivekastro.github.io/SQuAD.github.io/>
