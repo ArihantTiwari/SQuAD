@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Catalogs
 nav:
   order: 4
   tooltip: Musings and miscellany
