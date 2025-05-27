@@ -33,6 +33,7 @@ detected anomalies as an accompanying value-added catalog.
 
 [![Download Paper](https://img.shields.io/badge/Download-Paper-blue)](https://github.com/yourusername/yourrepo/raw/main/papers/squad_paper.pdf)
 [![View on arXiv](https://img.shields.io/badge/arXiv-2411.16858-orange)](https://arxiv.org/abs/2411.16858)
+[![Download Catalog](https://img.shields.io/badge/Download-Catalog-green)](https://github.com/ArihantTiwari/SQuAD/blob/main/Catalogs/SQuAD_I_catalog.csv)
 
 # Catalog
 
