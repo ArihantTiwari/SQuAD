@@ -1,6 +1,6 @@
 ---
 name: Rachana
-image: images/Rachana.jpg
+image: images/Rachana.jpeg
 role: phd
 group: alum
 affiliation: Indian Institute of Astrophysics
