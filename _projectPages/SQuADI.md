@@ -31,9 +31,14 @@ as heavily reddened, moderately reddened, and plateau-shaped spectrum
 quasars, each exhibiting varying degrees of reddening. We present the
 detected anomalies as an accompanying value-added catalog.
 
-[![Download Paper](https://img.shields.io/badge/Download-Paper-blue)](https://github.com/yourusername/yourrepo/raw/main/papers/squad_paper.pdf)
-[![View on arXiv](https://img.shields.io/badge/arXiv-2411.16858-orange)](https://arxiv.org/abs/2411.16858)
-[![Download Catalog](https://img.shields.io/badge/Download-Catalog-green)](https://github.com/ArihantTiwari/SQuAD/blob/main/Catalogs/SQuAD_I_catalog.csv)
+<p align="center">
+  <a href="https://github.com/ArihantTiwari/SQuAD/blob/main/_projectPages/Papers/aa53330_24.pdf">
+    <img src="https://img.shields.io/badge/Download_Paper-blue?style=for-the-badge" alt="Download Paper">
+  </a>
+  <a href="https://arxiv.org/abs/2411.16858">
+    <img src="https://img.shields.io/badge/View_on-ArXiv-orange?style=for-the-badge" alt="arXiv">
+  </a>
+</p>
 
 # Catalog
 
@@ -51,7 +56,11 @@ detected anomalies as an accompanying value-added catalog.
   | SDSS J133017.54+044646.4    | 202.5731     | 4.7795      |2.2054       |18.79        |3        |3        | Moderate red|
   | SDSS J124331.66+520335.1    | 190.8819     | 52.0597     |2.1730       |18.51        |3       | 3        | Plateau-shaped|
   |--------------------------   |----------    |---------    |--------    |----------- |  --------- | ------- | -----------------|
-
+<p align="center">
+  <a href="https://github.com/ArihantTiwari/SQuAD/blob/main/Catalogs/SQuAD_I_catalog.csv">
+    <img src="https://img.shields.io/badge/Download_Full_Catalog-CSV-green?style=for-the-badge" alt="Download Catalog">
+  </a>
+</p>
 
 # Conclusion {#sec:Conclusion}
 
