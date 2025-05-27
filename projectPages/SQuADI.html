@@ -443,19 +443,123 @@ detected anomalies as an accompanying value-added catalog.</p>
 
 <h1 id="catalog">Catalog</h1>
 
-<p>| Name                        |  RA  (deg)   |  Dec (deg)  |   Redshift  |  R-band  magnitude |  Cluster ID  |  Group ID  |  Anomaly Type  |
-  | :————————– | :———-: | :———: | :——–:  | :———–: | :———: |  :——-: | : —————– :|
-  | SDSS J001439.18-045138.9    | 3.6632       | -4.8608     |2.1261       |21.19        |1        | 1       | C iv peaker |
-  | SDSS J102835.79+262923.4    | 157.1491     | 26.4898     |2.0888       |18.50        |2        |4        | Excess Si iv |
-  | SDSS J002048.12-032444.4    | 5.2005       | -3.4123     |1.9333       |20.24        |2        |2        | Si iv deficient|
-  | SDSS J091333.72+132541.3    | 138.3905     | 13.4281     |2.1168       |19.21        |2        |4        | Blue BAL|
-  | SDSS J000228.71+103732.8    | 0.6196       | 10.6257     |1.9522       |20.68        |2        |2        | Flat BAL|
-  | SDSS J091836.30+523711.0    | 139.6512     | 52.6197     |1.9157       |19.91        |3        |3        | Red BAL|
-  | SDSS J123015.99+062056.7    | 187.5666     | 6.3491      |1.8512       |20.05        |2        |3        | FeLoBAL|
-  | SDSS J125831.40+522124.6    | 194.6308     | 52.3568     |1.9237       |19.89        |3        |3        | Heavy red|
-  | SDSS J133017.54+044646.4    | 202.5731     | 4.7795      |2.2054       |18.79        |3        |3        | Moderate red|
-  | SDSS J124331.66+520335.1    | 190.8819     | 52.0597     |2.1730       |18.51        |3       | 3        | Plateau-shaped|
-  |————————–   |———-    |———    |——–    |———– |  ——— | ——- | —————–|</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Name</th>
+      <th style="text-align: center">RA  (deg)</th>
+      <th style="text-align: center">Dec (deg)</th>
+      <th style="text-align: center">Redshift</th>
+      <th style="text-align: center">R-band  magnitude</th>
+      <th style="text-align: center">Cluster ID</th>
+      <th style="text-align: center">Group ID</th>
+      <th>Anomaly Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">SDSS J001439.18-045138.9</td>
+      <td style="text-align: center">3.6632</td>
+      <td style="text-align: center">-4.8608</td>
+      <td style="text-align: center">2.1261</td>
+      <td style="text-align: center">21.19</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td>C iv peaker</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J102835.79+262923.4</td>
+      <td style="text-align: center">157.1491</td>
+      <td style="text-align: center">26.4898</td>
+      <td style="text-align: center">2.0888</td>
+      <td style="text-align: center">18.50</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">4</td>
+      <td>Excess Si iv      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J002048.12-032444.4</td>
+      <td style="text-align: center">5.2005</td>
+      <td style="text-align: center">-3.4123</td>
+      <td style="text-align: center">1.9333</td>
+      <td style="text-align: center">20.24</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td>Si iv deficient</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J091333.72+132541.3</td>
+      <td style="text-align: center">138.3905</td>
+      <td style="text-align: center">13.4281</td>
+      <td style="text-align: center">2.1168</td>
+      <td style="text-align: center">19.21</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">4</td>
+      <td>Blue BAL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J000228.71+103732.8</td>
+      <td style="text-align: center">0.6196</td>
+      <td style="text-align: center">10.6257</td>
+      <td style="text-align: center">1.9522</td>
+      <td style="text-align: center">20.68</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td>Flat BAL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J091836.30+523711.0</td>
+      <td style="text-align: center">139.6512</td>
+      <td style="text-align: center">52.6197</td>
+      <td style="text-align: center">1.9157</td>
+      <td style="text-align: center">19.91</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td>Red BAL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J123015.99+062056.7</td>
+      <td style="text-align: center">187.5666</td>
+      <td style="text-align: center">6.3491</td>
+      <td style="text-align: center">1.8512</td>
+      <td style="text-align: center">20.05</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3</td>
+      <td>FeLoBAL</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J125831.40+522124.6</td>
+      <td style="text-align: center">194.6308</td>
+      <td style="text-align: center">52.3568</td>
+      <td style="text-align: center">1.9237</td>
+      <td style="text-align: center">19.89</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td>Heavy red</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J133017.54+044646.4</td>
+      <td style="text-align: center">202.5731</td>
+      <td style="text-align: center">4.7795</td>
+      <td style="text-align: center">2.2054</td>
+      <td style="text-align: center">18.79</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td>Moderate red</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SDSS J124331.66+520335.1</td>
+      <td style="text-align: center">190.8819</td>
+      <td style="text-align: center">52.0597</td>
+      <td style="text-align: center">2.1730</td>
+      <td style="text-align: center">18.51</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td>Plateau-shaped</td>
+    </tr>
+  </tbody>
+</table>
+
 <p align="center">
   <a href="https://github.com/ArihantTiwari/SQuAD/blob/main/Catalogs/SQuAD_I_catalog.csv">
     <img src="https://img.shields.io/badge/Download_Full_Catalog-CSV-green?style=for-the-badge" alt="Download Catalog">
