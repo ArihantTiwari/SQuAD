@@ -12,14 +12,14 @@
   subtitle: Rest frame optical NLSy1s
   group: featured
   image: images/SQuAD_II.png
-  link: https://github.com/
+  link: https://arihanttiwari.github.io/SQuAD/projectPages/SQuADII.html
   description: Three anomaly groups. 
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: SQuAD III
+  subtitle: Multi-epoch rest frame UV ratio spectra
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
