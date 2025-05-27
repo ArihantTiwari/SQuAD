@@ -40,6 +40,9 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each project
+  projectPages:
+    output: true
 
 # jekyll plugins
 plugins:
