@@ -35,6 +35,7 @@ detected anomalies as an accompanying value-added catalog.
   <a href="https://github.com/ArihantTiwari/SQuAD/blob/main/_projectPages/Papers/aa53330_24.pdf">
     <img src="https://img.shields.io/badge/Download_Paper-blue?style=for-the-badge" alt="Download Paper">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arxiv.org/abs/2411.16858">
     <img src="https://img.shields.io/badge/View_on-ArXiv-orange?style=for-the-badge" alt="arXiv">
   </a>
