@@ -14,9 +14,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently, we are a team of three, along with Aarya H, a Visitin Student Program (VSP) Intern. Please reach out to us if you wish to contribute to the SQuAD projects!
 
 {% include section.html %}
 
